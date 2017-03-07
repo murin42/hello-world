@@ -4,4 +4,5 @@ Test of GitHub
 
 README.md
 README.md
-Test
+
+Pridám nový riadok: 8:50
