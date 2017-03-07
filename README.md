@@ -6,3 +6,5 @@ README.md
 README.md
 
 Pridám nový riadok: 8:50
+Pridal som ďaľší o 9:07
+
